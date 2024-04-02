@@ -1,1 +1,1 @@
-print("avto-test")
+print("avto-tests")
